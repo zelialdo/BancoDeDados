@@ -1,2 +1,3 @@
 # BancoDeDados
- Exercios direcionados a banco de dados
+ Exercios direcionados a banco de dados MySQL
+ 
