@@ -17,4 +17,7 @@ VALUES
 INSERT INTO prefeitos 
     (nome, cidade_id) 
 VALUES
-    ('Rodrigo Pinheiro', 3);
+    ('Rodrigo Pinheiro', 4);
+
+DELETE FROM prefeitos
+WHERE id = 5
